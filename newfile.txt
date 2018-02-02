@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 khong co gi
+=======
+git update
+>>>>>>> master

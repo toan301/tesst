@@ -2,4 +2,8 @@ test master
 
 master 1
 
+<<<<<<< HEAD
 master 2 123123123
+=======
+master 2 edit 1 23
+>>>>>>> master
